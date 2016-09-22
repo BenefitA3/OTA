@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <peach>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160816-peach.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20160922-peach.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/lolmaxlik/peach/ResurrectionRemix-M-v5.7.3-20160916-peach.zip</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/lolmaxlik/peach/ResurrectionRemix-M-v5.7.4-20160922-peach.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
